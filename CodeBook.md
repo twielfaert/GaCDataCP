@@ -14,12 +14,12 @@ Subject
 Activity
 >  Performed activity
 
-1)    LAYING
-2)    SITTING
-3)    STANDING
-4)    WALKING
-5)    WALKING_DOWNSTAIRS
-6)    WALKING_UPSTAIRS
+>>  LAYING
+>>  SITTING
+>>  STANDING
+>>  WALKING
+>>  WALKING_DOWNSTAIRS
+>>  WALKING_UPSTAIRS
 
     
 tBodyAcc-mean-X
