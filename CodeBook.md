@@ -9,19 +9,19 @@ Codebook Tidy Human Activity Recognition Using Smartphones Dataset
 ------------------------------------------------------------------
 
 Subject
-  Subject ID
+*  Subject ID
 
 Activity
-  Performed activity
-    LAYING
-    SITTING
-    STANDING
-    WALKING
-    WALKING_DOWNSTAIRS
-    WALKING_UPSTAIRS
+*  Performed activity
+**    LAYING
+**    SITTING
+**    STANDING
+**    WALKING
+**    WALKING_DOWNSTAIRS
+**    WALKING_UPSTAIRS
     
 tBodyAcc-mean-X
-  Mean Body Acceleration X-axis time signal
+*  Mean Body Acceleration X-axis time signal
   
 tBodyAcc-mean-Y
   Mean Body Acceleration Y-axis time signal
