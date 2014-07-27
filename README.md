@@ -3,7 +3,7 @@ This script processes the test and training set of the UCI_HAR data set. It shou
 source('run_analys.R')
 ```
 
-The script consists of the following steps:
+The script goes through the following steps:
 
 1. Merge of the training and test set.
 2. Selects the variables concerning 'mean' and 'standard deviation' from the data set.
