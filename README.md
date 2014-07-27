@@ -6,7 +6,7 @@ source('run_analysis.R')
 The script processes the raw data as follows:
 
 1. Merge of the training and test set.
-2. Extract the variables concerning 'mean()' and 'std()' (standard deviation) from the data set.
+2. Extract the variables concerning 'mean()' and 'sd()' (standard deviation) from the data set.
 3. Make the variable names better readable by removing parentheses.
 4. Add the corresponding Subject ids and Activity names the measures.
 5. Compute the mean of each variable per test subject and activity.
