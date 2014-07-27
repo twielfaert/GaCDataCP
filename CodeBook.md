@@ -63,22 +63,22 @@ tGravityAcc-std-Z
 >>  Standard Deviation Gravity Acceleration Z-axis time signal
   
 tBodyAccJerk-mean-X
->>  Mean Body Acceleration Jerk signal X-axis time signal
+>>  Mean Body Acceleration X-axis time Jerk signal
   
 tBodyAccJerk-mean-Y
->>  Mean Body Acceleration Jerk signal Y-axis time signal
+>>  Mean Body Acceleration Y-axis time Jerk signal
   
 tBodyAccJerk-mean-Z
->>  Mean Body Acceleration Jerk signal Z-axis time signal
+>>  Mean Body Acceleration Z-axis time Jerk signal
   
 tBodyAccJerk-std-X
->>  Standard Deviation Body Acceleration X-axis Jerk time signal
+>>  Standard Deviation Body Acceleration X-axis time Jerk signal
   
 tBodyAccJerk-std-Y
->>  Standard Deviation Body Acceleration Y-axis Jerk time signal
+>>  Standard Deviation Body Acceleration Y-axis time Jerk signal
   
 tBodyAccJerk-std-Z
->>  Standard Deviation Body Acceleration Z-axis Jerk time signal
+>>  Standard Deviation Body Acceleration Z-axis time Jerk signal
   
 tBodyGyro-mean-X     
 >>  Mean Body Gyrosope signal X-axis time signal
