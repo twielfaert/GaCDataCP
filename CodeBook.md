@@ -13,12 +13,12 @@ Subject
 
 Activity
 *  Performed activity
-**    LAYING
-**    SITTING
-**    STANDING
-**    WALKING
-**    WALKING_DOWNSTAIRS
-**    WALKING_UPSTAIRS
+*    LAYING
+*    SITTING
+*    STANDING
+*    WALKING
+*    WALKING_DOWNSTAIRS
+*    WALKING_UPSTAIRS
     
 tBodyAcc-mean-X
 *  Mean Body Acceleration X-axis time signal
