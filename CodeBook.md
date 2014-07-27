@@ -13,6 +13,7 @@ Subject
 
 Activity
 >  Performed activity
+
 1)    LAYING
 
 2)    SITTING
