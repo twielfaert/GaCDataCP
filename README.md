@@ -1,4 +1,4 @@
-This script processes Human Activity Recognition Using Smartphones Dataset to a 'tidy' data set. The working directory should be set to the data directory first. Subsequently, the script can be executed from the R terminal with the following command:
+This script processes Human Activity Recognition Using Smartphones Dataset (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) to a 'tidy' data set. The working directory should be set to the data directory first. Subsequently, the script can be executed from the R terminal with the following command:
 ```
 source('run_analysis.R')
 ```
