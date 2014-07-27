@@ -24,31 +24,31 @@ tBodyAcc-mean-X
 >>  Mean Body Acceleration X-axis time signal
   
 tBodyAcc-mean-Y
-  Mean Body Acceleration Y-axis time signal
+>>  Mean Body Acceleration Y-axis time signal
   
 tBodyAcc-mean-Z
-  Mean Body Acceleration Z-axis time signal
+>>  Mean Body Acceleration Z-axis time signal
   
 tBodyAcc-std-X
-  Standard Deviation Body Acceleration X-axis time signal
+>>  Standard Deviation Body Acceleration X-axis time signal
 
 tBodyAcc-std-Y
-  Standard Deviation Body Acceleration Y-axis time signal
+>  Standard Deviation Body Acceleration Y-axis time signal
 
 tBodyAcc-std-Z
-  Standard Deviation Body Acceleration Z-axis time signal
+>  Standard Deviation Body Acceleration Z-axis time signal
   
 tGravityAcc-mean-X
-  Mean Gravity Acceleration X-axis time signal
+>  Mean Gravity Acceleration X-axis time signal
 
 tGravityAcc-mean-Y
-  Mean Gravity Acceleration Y-axis time signal
+>  Mean Gravity Acceleration Y-axis time signal
   
 tGravityAcc-mean-Z
-  Mean Gravity Acceleration Z-axis time signal
+>  Mean Gravity Acceleration Z-axis time signal
   
 tGravityAcc-std-X
-  Standard Deviation Gravity Acceleration X-axis time signal
+>  Standard Deviation Gravity Acceleration X-axis time signal
   
 tGravityAcc-std-Y
   Standard Deviation Gravity Acceleration Y-axis time signal
